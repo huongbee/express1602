@@ -1,0 +1,11 @@
+{
+  "name": "express1602",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/huongnguyen08/express1602.git",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
