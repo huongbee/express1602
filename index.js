@@ -22,7 +22,7 @@ app.get('/user/:id',(req,res)=>{
 app.get('/a',(req,res)=>{
     // res.sendStatus(404)
     // console.log(__dirname);
-    res.sendFile(__dirname+'./views/a.html');
+    res.sendFile(__dirname+'/views/a.html');
 });
 
 app.get('/:so_a/:pheptinh/:so_b',(req,res)=>{
